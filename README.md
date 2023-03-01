@@ -130,20 +130,20 @@ Create Super User (HOD)
 $  python manage.py createsuperuser
 ```
 
-Then Add Email, Username and Password
+Adicione Email, Usuário e Senha
 
-**or Use Default Credentials**
+**Credenciais Cadastradas**
 
-*For HOD /SuperAdmin*
+* SuperAdmin*
 Email: admin@gmail.com
-Password: admin
+Senha: admin
 
-*For Staff*
+*Funcionário*
 Email: staff@gmail.com
-Password: staff
+Senha: staff
 
-*For Student*
+*Estudante*
 Email: student@gmail.com
-Password: student
+Senha: student
 # GerenciamentoEscolar
 # GerenciamentoEscolar
